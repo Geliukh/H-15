@@ -1,5 +1,5 @@
 .container {
-    width: 200px;
+    width: 300px;
 }
 
 .holder {
@@ -18,33 +18,33 @@
   }
   
   .item {
-    width: 100px;
+    width: 400px;
     text-align: center;
     padding: 10px;
     margin: 0;
   }
   
   .red {
-    background-color: red;
-    width: 85px;
+    background-color:rgb(253, 100, 77);
+    width: 160px;
   }
   
   .yellow {
-    background-color: yellow;
-    width: 85px;
+    background-color: rgb(253, 164, 41);
+    width: 160px;
   }
   
   .purple {
-    background-color: purple;
-    width: 50px;
+    background-color:rgb(102, 55, 151);
+    width: 100px;
   }
   
   .blue {
-    background-color: blue;
-    width: 50px;
+    background-color:rgb(14, 127, 18);
+    width: 100px;
   }
   
   .green {
-    background-color: green;
-    width: 50px;
+    background-color:rgb(73, 131, 178);
+    width: 100px;
   }
