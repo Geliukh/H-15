@@ -1,0 +1,50 @@
+.container {
+    width: 200px;
+}
+
+.holder {
+    display: flex;
+    flex-direction: column;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0; 
+    border-bottom-right-radius: 0;
+    border: 2px solid black; 
+    overflow: hidden;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .item {
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .red {
+    background-color: red;
+    width: 85px;
+  }
+  
+  .yellow {
+    background-color: yellow;
+    width: 85px;
+  }
+  
+  .purple {
+    background-color: purple;
+    width: 50px;
+  }
+  
+  .blue {
+    background-color: blue;
+    width: 50px;
+  }
+  
+  .green {
+    background-color: green;
+    width: 50px;
+  }
